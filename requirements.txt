@@ -1,0 +1,32 @@
+# This file lists the dependencies of the project.
+# use "pip install -r .\requirements.txt" to install all dependencies.
+
+# faiss-cpu is a library for efficient similarity search and clustering of dense vectors.
+faiss-cpu==1.7.4
+
+# FastAPI is a modern, fast (high-performance) web framework for building APIs with Python 3.7+ based on standard Python type hints.
+fastapi==0.98.0
+
+# isort is a Python utility that sorts imports alphabetically and automatically separates them into sections.
+isort==5.12.0
+
+# langchain is a library for natural language processing and text analysis.
+langchain==0.0.209
+
+# python-dotenv allows you to load environment variables from a .env file.
+python-dotenv==1.0.0
+
+# python-jose is a Python library for JSON Web Tokens (JWTs).
+python-jose==3.3.0
+
+# SQLAlchemy is a SQL toolkit and ORM that provides a set of high-level API for connecting to relational databases.
+SQLAlchemy==2.0.16
+
+# tiktoken is a Python wrapper for the TikTok API.
+tiktoken==0.4.0
+
+# uvicorn is a lightning-fast ASGI server implementation, using uvloop and httptools.
+uvicorn==0.22.0
+
+# openai is an artificial intelligence research laboratory consisting of the for-profit corporation OpenAI LP and its parent company, the non-profit OpenAI Inc.
+openai
